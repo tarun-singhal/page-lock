@@ -1,27 +1,26 @@
 {
-   "name": "tarun-singhal/page-lock",
-   "description": "For muti user access of the web-page then lock the same web page irrespective of browser using for a pre-defined time intervel.",
-   "type": "library",
-   "keywords": [
-       "zf2",
-       "Multi-user access",
-       "page lock",
-       "page access",
-   ],
-   "homepage": "https://github.com/tarun-singhal/page-lock",
-   "authors": [
-       {
-           "name": "Tarun Singhal",
-           "email": "ks.tarun@gmail.com",
-       }
-   ],
-   "require": {
-       "php": ">=5.3"
-   },
-   "autoload": {
-       "classmap": [
-           "./Module.php"
-       ]
-   }
+    "name": "tarun-singhal/page-lock",
+    "description": "For muti user access of the web-page then lock the same web page irrespective of browser using for a pre-defined time intervel.",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "Multi-user access",
+        "page lock",
+        "page access"
+    ],
+    "homepage": "https://github.com/tarun-singhal/page-lock",
+    "authors": [
+        {
+            "name": "Tarun Singhal",
+            "email": "ks.tarun@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
 }
-

@@ -34,16 +34,6 @@ Replce the above code with below one:
 ```
 
 Step 3:
-Include the partial 'page-blocked.phtml' in your view directory where your layout reside:
-and write the blow code inside the partial:
-
-```php
-<div class="text-center">
-	<b>Another user is currently using this page. Please try again in few minutes.</b>
-</div>
-```
-
-Step 4:
 Create the table page_access inside your database:
 
 ```php
